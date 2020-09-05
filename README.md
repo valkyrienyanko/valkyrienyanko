@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! My name is Valk and I have a dream to make a game as popular as Terraria.
 
-<!--
-**valkyrienyanko/valkyrienyanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Want to talk to me? Join the Discord! Click the badge below.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Discord][discord]][discord-url]
+
+</div>
+
+<!-- BADGES -->
+[discord]: https://img.shields.io/discord/453710350454620160.svg
+<!-- Discord Link -->
+[discord-url]: https://discord.gg/thMupbv
