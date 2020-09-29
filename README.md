@@ -1,4 +1,4 @@
-### Hello! My name is Valk and I have a dream to make a game as popular as Terraria!
+### Hello! My name is Valk and I have a dream to make a game as popular as Terraria! (don't we all)
 
 Want to talk to me? Join the Discord linked below!
 
