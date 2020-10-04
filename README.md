@@ -1,6 +1,7 @@
 Someone help me figure out how to not only make a procedural octahedron sphere but to only generate parts of it at a time. That would be so helpful for the game I'm planning on making.
 
-https://www.binpress.com/creating-octahedron-sphere-unity/
+https://www.binpress.com/creating-octahedron-sphere-unity/  
+https://medium.com/@peter_winslow/creating-procedural-planets-in-unity-part-1-df83ecb12e91  
 
 <div align="center">
 
