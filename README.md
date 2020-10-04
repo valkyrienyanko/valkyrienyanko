@@ -1,6 +1,6 @@
-### Hello! My name is Valk and I have a dream to make a game as popular as Terraria! (don't we all)
+Someone help me figure out how to not only make a procedural octahedron sphere but to only generate parts of it at a time. That would be so helpful for the game I'm planning on making.
 
-Want to talk to me? Join the Discord linked below!
+https://www.binpress.com/creating-octahedron-sphere-unity/
 
 <div align="center">
 
