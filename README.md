@@ -1,4 +1,4 @@
-My Discord
+My Discord https://discord.gg/thMupbv
 
 <div align="center">
 
