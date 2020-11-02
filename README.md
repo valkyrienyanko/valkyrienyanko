@@ -1,4 +1,4 @@
-My Discord https://discord.gg/thMupbv
+You fool, you dare challenge the violin master?
 
 <div align="center">
 
