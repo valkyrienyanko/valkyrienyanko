@@ -1,8 +1,8 @@
-Discord Username: valk#9904
-Discord Server: https://discord.gg/thMupbv
+Discord Username: valk#9904  
+Discord Server: https://discord.gg/thMupbv  
 
-Discord DMs are open, feel free to DM me.
+Discord DMs are open, feel free to DM me.  
 
-Check out https://valk.live to see my website portfolio.
+Check out https://valk.live to see my website portfolio.  
 
-I want to create a overly ambitious MMORPG.
+I want to create a overly ambitious MMORPG.  
