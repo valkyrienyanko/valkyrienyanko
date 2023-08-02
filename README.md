@@ -1,5 +1,5 @@
 ### Issues that need help
-https://github.com/Valks-Terraria-Mods/MerchantsPlus/issues/10  
+None at the moment
 
 ### Projects looking for contributors
 https://github.com/Valks-Games/AvoidTheEnemies  
