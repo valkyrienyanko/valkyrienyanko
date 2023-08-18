@@ -2,6 +2,7 @@
 None at the moment
 
 ### Projects looking for contributors
+https://github.com/valkyrienyanko/RaccoonsRiseUp  
 https://github.com/Valks-Games/AvoidTheEnemies  
 https://github.com/ValksGodotTools/Template  
 https://github.com/ValksGodotTools/GodotUtils  
