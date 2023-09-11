@@ -1,11 +1,16 @@
-### If you want to make a Godot 4 C# game together, please contact me!
+### Looking for / to...
+- Make games and brainstorm ideas for games made in the Godot 4 C# engine in collaboration with other people (can be open or closed source)
+- Make or be a part of a big Terraria content mod (the mod must be open source I really don't understand why people make their Terraria mods closed source...)
+- Music I have not listened to before
+- Good anime I have not seen
+- Someone to play Planetside 2 together with
+- Someone to spar with in Brawlhalla
+- A friend to talk to
 
 ### Issues that need help
 None at the moment
 
 ### Projects looking for contributors
-https://github.com/valkyrienyanko/RaccoonsRiseUp  
-https://github.com/Valks-Games/AvoidTheEnemies  
 https://github.com/ValksGodotTools/Template  
 https://github.com/ValksGodotTools/GodotUtils  
 https://github.com/ValksGodotTools/Multiplayer  
