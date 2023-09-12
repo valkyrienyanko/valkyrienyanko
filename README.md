@@ -18,4 +18,4 @@ https://github.com/ValksGodotTools/GodotPlanets
 
 ### My Discords
 [Valks Island](https://discord.gg/866cg8yfxZ) *(get a hold of me in here)*  
-[Find Contributors for Godot 4 C# Projects](https://discord.gg/r7kGfdckPu) *(very dead, seems not many people want to find contributors for Godot 4 C# projects or I'm just really bad at advertising)*  
+[Godot 4 C# Developers](https://discord.gg/r7kGfdckPu)   
