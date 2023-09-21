@@ -17,5 +17,5 @@ https://github.com/ValksGodotTools/Multiplayer
 https://github.com/ValksGodotTools/GodotPlanets  
 
 ### My Discords
-[Valks Island](https://discord.gg/866cg8yfxZ) *(get a hold of me in here)*  
+[Valks Island](https://discord.gg/866cg8yfxZ)   
 [Godot 4 C# Developers](https://discord.gg/r7kGfdckPu)   
