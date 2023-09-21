@@ -8,7 +8,7 @@
 - A friend to talk to
 
 ### Issues that need help
-None at the moment
+https://github.com/Valks-Terraria-Mods/ValksStructures/issues/1  
 
 ### Projects looking for contributors
 https://github.com/ValksGodotTools/Template  
