@@ -1,21 +1,12 @@
-### Looking for / to...
-- Make games and brainstorm ideas for games made in the Godot 4 C# engine in collaboration with other people *(can be open or closed source)*
-- Make or be a part of a big Terraria content mod *(the mod must be open source I really don't understand why people make their Terraria mods closed source...)*
-- Music I have not listened to before
-- Good anime I have not seen
-- Someone to play Planetside 2 together with
-- Someone to spar with in Brawlhalla
-- A friend to talk to
-
-### Issues that need help
+## Issues that need help
 https://github.com/Valks-Terraria-Mods/ValksStructures/issues/1  
 
-### Projects looking for contributors
+## Projects looking for contributors
 https://github.com/ValksGodotTools/Template  
 https://github.com/ValksGodotTools/GodotUtils  
 https://github.com/ValksGodotTools/Multiplayer  
 https://github.com/ValksGodotTools/GodotPlanets  
 
-### My Discords
+## My Discords
 [Valks Island](https://discord.gg/866cg8yfxZ)   
 [Godot 4 C# Developers](https://discord.gg/r7kGfdckPu)   
