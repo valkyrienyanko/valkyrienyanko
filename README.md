@@ -1,3 +1,1 @@
-## My Discords
-[Valks Island](https://discord.gg/866cg8yfxZ)   
-[Godot 4 C# Developers](https://discord.gg/r7kGfdckPu)   
+If you have any questions or want to collaborate with me, join the [Valks Island Discord](https://discord.gg/866cg8yfxZ) and ping my username `valk2023`
