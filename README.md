@@ -1,5 +1,18 @@
-🌱 I'm looking to collaborate with fellow C# (Go/Re)dot developers on open source tools that can be used across various game projects.
+## What am I up to right now?
+Currently learning C / C++ and animation / modeling in Blender.
 
-🐈‍⬛ I’m also interested in collaborating on closed source projects that align with my personal interests. Some of the games I enjoy include Rainbow Six Vegas 2 (specifically the terrorist hunt mode), Project Zomboid, Minecraft, Terraria, Stardew Valley, Path of Exile, Kittens Game by Bloodrizer, Dark Souls, and Age of Empires. I recognize that these genres come with their own unique challenges, such as creating smooth 3D animations, handling pathfinding, and managing complex game systems. With that in mind, I believe it's important for us to develop a comprehensive Game Design Document to guide the project. If we’re confident in our vision and execution, I’d be eager to dive in and contribute to making it a reality.
+## Collaboration
+Looking to collaborate with others to
+- expand upon Godot C# Template
+- create an FPS similar to the Terrorist Hunt gamemode in Rainbow Six Vegas 2
+- create a round based zombie survival FPS
+- create a game taking a lot of inspiration from Stardew Valley
+- create a souls like
+- create a 2D platformer
+- create a text based MMO (or single-player game) similar to Kittens Game by Bloodrizer
+- create an RTS like SC2 (will most likely never happen)
+- create a top down space RPG
 
-🦋 Feel free to reach out to me on Discord! You can add me as a friend using the username `valky5`, or you can ping me in the server at https://discord.gg/j8HQZZ76r8.
+## Contact Info
+Valky's Discord: https://discord.gg/j8HQZZ76r8  
+Discord Username: `valky5`  
